@@ -1,5 +1,5 @@
 {
-  "name": "use-babelrc",
+  "name": "use-ts-loader",
   "version": "1.0.0",
   "description": "Transpiling specs using local .babelrc file",
   "private": true,
